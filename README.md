@@ -1,6 +1,6 @@
 # Book Management API (Spring Boot)
 
-A simple RESTful API to manage books.
+A RESTful API to manage books.
 
 ## Features
 
