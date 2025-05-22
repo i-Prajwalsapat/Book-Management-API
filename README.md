@@ -18,6 +18,6 @@ A simple RESTful API to manage books.
 ## Sample Book JSON
 ```json
 {
-  "title": "Clean Code",
-  "author": "Robert C. Martin"
+  "title": "Java",
+  "author": "James G."
 }
